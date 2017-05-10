@@ -4,7 +4,7 @@ while condition > 0:
     print(condition)
     condition -= 1
 
-
+print(condition)           # Note: outside of the while loop
 
 '''
 5
